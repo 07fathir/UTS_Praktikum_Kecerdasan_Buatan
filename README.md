@@ -23,7 +23,7 @@ Tugas UTS mencakup:
   - Menyusun ide aplikasi serupa untuk lingkungan sekitar.
 
 ## 📖 Referensi
-- Thuy, P. B., & Tien, P. D. (2024). *AI-Powered Administration: The Role of Intelligent Tutoring Systems in Education*. International Journal of Religion, 5(10), 4560–4569. [DOI:10.61707/sqwrjn32](https://doi.org/10.61707/sqwrjn32)
+- Thuy, P. B., & Tien, P. D. (2024). *AI-Powered Administration: The Role of Intelligent Tutoring Systems in Education*. International Journal of Religion, 5(10), 4560–4569.
 
 ## 🚀 Cara Menjalankan Program (soal 1)
 1. Pastikan Python sudah terinstal di komputer.
